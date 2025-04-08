@@ -12,6 +12,7 @@ It includes details about the tips given to restaurant staff, such as the total 
 ![image](https://github.com/user-attachments/assets/5fcf55be-23df-4dd3-9c03-cef1e527ff3a)
 
 **The main goals and Result:** **Answer FOUR question?**
+
 **1. Do people who smoke give more tips?**
     * Most non_smokers tip 2-4 USD, smoker often < 2 USD
     * The majority of people tend to give <= 3 USD
